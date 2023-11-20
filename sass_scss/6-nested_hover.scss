@@ -3,10 +3,10 @@ This is a Sass file that sets the text color of button tags to #FF0000 and chang
 */
 
 button {
-  color: #FF0000; 
-}
+  color: #FF0000;
 
-button:hover {
-  color: #00FF00; 
+  &:hover {
+    color: #00FF00;
+  }
 }
 
