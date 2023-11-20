@@ -1,7 +1,7 @@
-/* Nested hover */
+/* sass 6-nested_hover.scss | tail -n +2 */
 button {
     color: #FF0000;
     &:hover {
-      color: #00FF00; 
+        color: #00FF00;
     }
 }
